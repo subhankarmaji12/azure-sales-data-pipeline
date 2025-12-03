@@ -1,0 +1,9 @@
+{
+	"name": "crmdatafactory01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad028538-46bb-4cd9-9426-087678ed66f5",
+		"tenantId": "23029f1a-3dd9-435e-a90a-d889604ebf41"
+	}
+}
